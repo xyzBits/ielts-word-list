@@ -10,17 +10,6 @@ flourish:
 
     __flourish__ n. （为引起注意的）夸张动作；修饰
 
-reserve:   
-  title: reserve
-  text: |
-    __reserve__ [rɪˈzɜːv] vt. 预订，预约；保留；储备  
-
-    __reserve__ n. 储备（量）；自然保护区
-
-dimensional:   
-  title: dimensional
-  text: __dimensional__ [dɪ'menʃənəl] a. ……度空间的，……维的
-
 laundry:   
   title: laundry
   text: __launtry__ [ˈlɔːndrɪ] n. 洗衣房；待洗衣服
@@ -41,10 +30,6 @@ probation:
   title: probation
   text: __probation__ [prəˈbeɪʃn] n. 缓刑（制）；（对人的）试用；试用期
 
-depression:   
-  title: depression
-  text: __depression__ [dɪˈpreʃn] n. 忧愁，消沉；低气压，低压；不景气，萧条（期）
-
 proximity:   
   title: proximity
   text: __proximity__ [prɔkˈsɪmətɪ] n. 接近，邻近；亲近
@@ -63,10 +48,6 @@ devastate:
 dull:   
   title: dull
   text: __dull__ [dʌl] a. 乏味的；阴沉的
-
-rumour:   
-  title: rumour
-  text: __rumour__ [ˈruːmə(r)] n. 谣传，谣言
 
 endeavour:   
   title: endeavour
@@ -97,11 +78,6 @@ avail:
     __avail__ [əˈveɪl] vt. 有帮助，有益，有用  
 
     __avail__ n. 效用；利益
-
-
-overdue:   
-  title: overdue
-  text: __overdue__ [ˏəuvəˈdjuː] a. 过期未付的；逾期的；过度的，过火的；迟到的，延误的
 
 verdict:   
   title: verdict
