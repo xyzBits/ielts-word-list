@@ -2,23 +2,6 @@
 # Word List 09
 # ==============================================================================
 
-
-fumes:   
-  title: fumes
-  text: __fumes__ [fju:mz] n. 烟，气，汽
-
-positive:   
-  title: positive
-  text: __positive__ [ˈpɔzətɪv] a. 明确的；肯定的；积极的
-
-
-assistant:   
-  title: assistant
-  text: |
-    __assistant__ [əˈsɪstənt] a. 助理的；副的  
-
-    __assistant__ n. 助理
-
 cannon:   
   title: cannon
   text: __cannon__ [ˈkænən] n. 加农炮，大炮
@@ -39,20 +22,9 @@ pesticide:
   title: pesticide
   text: __pesticide__ [ˈpestɪsaɪd] n. 杀虫剂，农药
 
-poll:   
-  title: poll
-  text: |
-    __poll__ [pəul] n. 民意测验；政治选举，大选  
-
-    __poll__ v. 对……进行民意测验；获得……选票
-
 refundable:   
   title: reundable
   text: __refundable__ [rɪ'fʌndəbl] a. 可退还的，可归还的，可偿还的
-
-homesick:   
-  title: homesick
-  text: __homesick__ [ˈhəʊmsɪk] a. 想家的，思乡的
 
 compassionate:   
   title: compassionate
@@ -61,50 +33,17 @@ compassionate:
 orientate:   
   title: orientate
   text: __orientate__ [ˈɔːrɪənteɪt] vt. 使适应，使熟悉情况（或环境等）；给……定位，给……定向；使朝向；转至特定方向；适应（=orient）
-
-insight:   
-  title: insight
-  text: __insight__ [ˈɪnsaɪt] n. 洞察力，深刻的了解；顿悟
-
-resist:   
-  title: resist
-  text: __resist__ [rɪˈzɪst] v. 抵抗；抗（病等）；耐（热等）
+  
 
 glide:   
   title: glide
   text: __glide__ [glaɪd] vi./n. 滑行，滑翔
 
 
-casualty:   
-  title: casualty
-  text: __casualty__ [ˈkæʒuəltɪ] n. 伤亡（人员），伤亡者；损失的东西；伤亡事故
-
-belief:   
-  title: belief
-  text: __belief__ [bɪˈliːf] n. 信仰，信条；相信
-
-concentration:   
-  title: concentration
-  text: __concentration__ [ˏkɔnsnˈtreɪʃn] n. 集中；专心，专注；浓缩，浓度
-
 tug:   
   title: tug
   text: __tug__ [tʌg] v. 用力拖（或拉）
 
-proceed:   
-  title: proceed
-  text: __proceed__ [prəˈsiːd] vi. 进行；前进；继续
-
-status:   
-  title: status
-  text: __status__ [ˈsteɪtəs] n. 地位；身份；状况
-
-document:   
-  title: document
-  text: |
-    __document__ [ˈdɔkjumənt] n. 公文，文件，证件 
-
-    __document__ vt. 用文件（或文献等）证明；记载
 
 mattress:   
   title: mattress
@@ -117,10 +56,6 @@ hostile:
 intervene:   
   title: intervene
   text: __intervene__ [ˏɪntəˈviːn] vi. 干涉，干扰；介于其间
-
-promote:   
-  title: promote
-  text: __promote__ [prəˈməut] vt. 促进；提升；促销
 
 bump:   
   title: bump
@@ -140,10 +75,6 @@ digestive:
 homestay:   
   title: homestay
   text: __homestay__ ['həʊmsteɪ] n. 在当地居民家居住的时期
-
-commit:   
-  title: commit
-  text: __commit__ [kəˈmɪt] v. 把……交托给，提交；犯（错误），干（坏事）
 
 practically:   
   title: practically
@@ -207,10 +138,6 @@ foremost:
   title: foremost
   text: __foremost__ [ˈfɔːməust] a. 最好的；最重要的
 
-procedure:   
-  title: procedure
-  text: __procedure__ [prəˈsiːdʒə(r)] n. 程序，手续；过程
-
 assemble:   
   title: assemble
   text: __assenble__ [əˈsembl] v. 集合；装配
@@ -230,25 +157,7 @@ pledge:
 
     __pledge__ n. 誓约，保证；抵押
 
-effective:   
-  title: effective
-  text: __effective__ [ɪˈfektɪv] a. 有效的，生效的；给人深刻印象的，显著的
 
-appreciate:   
-  title: appreciate
-  text: __appreciate__ [əˈpriːʃɪeɪt] v. 赏识，鉴赏；感激；涨价，增值
-
-deny:   
-  title: deny
-  text: __deny__ [dɪˈnaɪ] v. 否认，否定；拒绝
-
-union:   
-  title: union
-  text: __union__ [ˈjuːnɪən] n. 协会，工会，同盟；联合，合并
-
-responsibility:   
-  title: responsibility
-  text: __responsiblity__ [rɪˏspɔnsəˈbɪlətɪ] n. 责任，责任心；职责，任务
 
 conform:   
   title: conform
@@ -258,44 +167,19 @@ handy:
   title: handy
   text: __handy__ [ˈhændɪ] a. 方便的；手边的；手巧的
 
-notify:   
-  title: notify
-  text: __notify__ [ˈnəutɪfaɪ] vt. 通知，报告
 
 splendid:   
   title: splendid
   text: __splendid__ [ˈsplendɪd] a. 壮观的，壮丽的，极好的；堂皇的，豪华的；灿烂的，辉煌的
 
-direction:   
-  title: direction
-  text: __direction__ [dɪˈrekʃn, daɪ-] n. 方向；趋势，动向； [pl.] 用法说明；指导
-
-execute:   
-  title: execute
-  text: __execute__ [ˈeksɪkjuːt] vt. 将……处死；实施，执行
-
-witness:   
-  title: witness
-  text: |
-    __witness__ [ˈwɪtnɪs] n. 证据；目击者  
-
-    __witness__ v. 目击；为……作证
 
 elbow:   
   title: elbow
   text: __elbow__ [ˈelbəu] n. 肘；（衣服的）肘部
 
-limited:   
-  title: limited
-  text: __limited__ ['lɪmɪtɪd] a. 有限的
-
 vessel:   
   title: vessel
   text: __vessel__ [ˈvesl] n. <总称>船只；容器；血管
-
-private:   
-  title: private
-  text: __private__ [ˈpraɪvɪt] a. 私人的；私下的；私立的
 
 stereo:   
   title: stereo
